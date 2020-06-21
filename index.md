@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Describing Paris in the 19th Century
 
-I'm glad you are here. I plan to talk about ...
+This is the stub website for digital nineteenth-century descriptions of Paris
